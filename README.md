@@ -2,4 +2,4 @@
 
 link para acesso: https://edna06.github.io/MyAcconts/
 
-file:///home/edna/Imagens/Captura%20de%20tela%20de%202022-07-04%2021-44-33.png
+![Captura de tela de 2022-07-04 21-44-33](https://user-images.githubusercontent.com/102126245/177229249-9e66045d-db71-4280-87bc-8c184b3a2eef.png)
